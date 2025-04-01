@@ -20,4 +20,10 @@ Structură și dinamică:
     Speranța de viață: 79 ani (bărbați), 82 ani (femei).
     Germania este una dintre cele mai urbanizate țări din Europa, Berlinul având aproape 4 milioane de locuitori, sectorul rural având un procentaj de 23%.
     Germania are o economie puternic diversificată, cu o pondere majoră a sectorului terțiar (servicii) - 70%.
+Economie
     Economia Germaniei este una dintre cele mai puternice și mai influente din lume, reprezentând motorul de creștere al Uniunii Europene și un model de stabilitate și inovație.
+    Energetică: Bazată pe cărbune (termocentrale), petrol și gaze (importate).
+    Siderurgie: Lider european, dar dependentă de importuri de minereu.
+    Constructoare de mașini: Locul 3 mondial în producția auto (Volkswagen, BMW, Daimler).
+    Chimică Locul 3 mondial (îngrășăminte, fibre sintetice, farmaceutice).
+    Industria ușoară: Textile (Leipzig), încălțăminte (Saxonia), optică (Carl Zeiss Jena).
