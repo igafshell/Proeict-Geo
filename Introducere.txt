@@ -1,28 +1,79 @@
 Introducere
-Germania, oficial Republica Federală Germania, este o țară din Europa Centrală, formată din 16 state federale (Landuri), cu capitala la Berlin. Este membră a Uniunii Europene și are o economie puternică, fiind lider în industrii precum cea auto și chimică.
+    Germania, oficial Republica Federală Germania, este o țară din Europa Centrală, formată din 16 state federale (Landuri), cu capitala la Berlin. Este membră a Uniunii Europene și are o economie puternică, fiind lider în industrii precum cea auto și chimică.
+    Foto Prezentare: landurile germaniei
 
 Pozitia Economica-Geografica
-Germania este situată în Europa Centrală și este cea mai mare țară din regiune atât ca suprafață, cât și ca populație. Vecinătatea cu țări puternic dezvoltate, membre ale UE, facilitează cooperarea economică și politică.
+    Germania este situată în Europa Centrală, la intersecția principalelor căi de transport europene. Vecina cu 9 țări din UE: Franța, Polonia, Austria, etc, facilitează cooperarea economică și politică.
+    foto prezentare: pozitia si statutul germaniei in europa
 
 Pozitia fata de caile de comunicatie
     Are acces la Marea Nordului și Marea Baltică, esențiale pentru comerțul maritim global.
     Prin Canalul Rhin-Main-Dunăre, conectează Marea Neagră și Marea Mediterană, asigurând acces la resursele petroliere din Orientul Apropiat și Africa de Nord.
     Rețea densă de linii ferate, autostrăzi și căi fluviale (ex: Rin, Elba), care leagă toate regiunile Europei.
+    foto prezentare: canalul rhin-main-dunare
+    foto prezentare: drumurile germaniei
 
 Conditiile si resursele naturale
-    Germania, ca țară situată în Europa Centrală, beneficiază de o varietate de resurse atmosferice, biologice și maritime.
+    Germania beneficiază de o varietate de resurse atmosferice, biologice și maritime.
     Are o climă temperată, care favorizează agricultura și activitățile turistice.
-4 trepte de relief: Câmpia Nordului, Munții Hercynici, Podișul Bavariei, Alpii.
+    Soluri Brune de pădure (centru și sud), podzolice (nord), cernoziomuri.
+    Păduri (25% din suprafață, majoritatea plantate).
+    Pășuni și fânețe (38%), esențiale pentru zootehnie.
+    4 trepte de relief: Câmpia Nordului, Munții Hercynici, Podișul Bavariei, Alpii.
+    foto prezentare: clima germaniei
+    foto prezentare: relieful germaniei
 
 Structură și dinamică:
     92% germani, minorități: turci, polonezi, austrieci etc.
     Deficit natural (-0,2% anual), consecință a celui de-Al Doilea Război Mondial.
     Speranța de viață: 79 ani (bărbați), 82 ani (femei).
-    Germania este una dintre cele mai urbanizate țări din Europa, Berlinul având aproape 4 milioane de locuitori, sectorul rural având un procentaj de 23%.
-    Germania are o economie puternic diversificată, cu o pondere majoră a sectorului terțiar (servicii) - 70%.
+    foto prezentare: proportiile femei vs barbati
+
+    Germania este una dintre cele mai urbanizate țări din Europa, Berlinul având aproape 4 milioane de locuitori, sectorul rural având un procentaj de 23%. Densitatea 231 loc./km²
+    foto prezentare: gradul de urbanizare
+    foto prezentare: densitatea populatiei
+
+Populatia activa:
+    Germania are o economie puternic diversificată, cu o pondere majoră a sectorului terțiar (servicii) - 70%, sectorul secundar 28%  (automotive, chimie, tehnologie), 2% - sectorul primar
+    foto prezentare: procentajul fortei de munca pe domeniu
+
+Economia
     Economia Germaniei este una dintre cele mai puternice și mai influente din lume, reprezentând motorul de creștere al Uniunii Europene și un model de stabilitate și inovație.
+    foto prezentare: GDP Germania
+
+Industria
+    Energetica: Bazată pe cărbune (30%), importuri de petrol și gaze (60%) din Rusia.
+    Siderurgie: 8 loc in lume, dar dependentă de minereu de fier importat.
+    Automotive: Locul 3 mondial (Volkswagen, BMW, Daimler).
+    Chimie: Locul 3 mondial (BASF, Bayer), exporturi numeroase.
+    Industria ușoară: Locul 17 Textile (Leipzig), încălțăminte (Saxonia).
+    foto: top companii pe domeniu
+    foto: miliarde de dolari pe domeniu
 
 Agricultura
     Gospodării familiale (15-20 ha) cu tehnologie avansată.
     Zootehnie dominantă (creșterea bovinelor și porcinelor).
     Culturi productive: grâu, sfeclă de zahăr, cartofi.
+    foto: cele mai mari producte agriculturale(lapte, zahar, grau)
+    foto: agricultura in germania (80% din teritoriu este cu agricultura, 87% fermieri au 127ari, 50% miliarde de euro pe an din agricultura, 10% din germani fac agricultura)
+
+
+Resurse minerale:
+Cărbune 
+Săruri de potasiu și sodiu
+Resurse limitate: petrol, gaze, minereu de fier (calitate scăzută).
+
+Relatii economice externe
+    Exporturi: Mașini, produse chimice, echipamente tehnologice (1,8 trilioane USD/an).
+    Importuri: Materii prime, combustibili, produse agricole tropicale.
+    Parteneri principali: SUA, China, Franța.
+    foto: 
+    
+Transporturi
+    Autostrăzi: 13.000 km (inclusiv Autobahn fără limită de viteză).
+    Căi ferate: 33.000 km (trenuri ICE pentru viteze mari).
+    Transport fluvial: 20% din traficul intern (Rinul, Canalul Rhin-Main-Dunăre).
+    Porturi: Hamburg (al 3-lea în Europa), aeroportul Frankfurt (cel mai aglomerat).
+
+
+Citat: "Germania nu este doar o economie, ci un motor al inovației globale."
